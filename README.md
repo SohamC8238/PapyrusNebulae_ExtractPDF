@@ -10,7 +10,9 @@ This repository contains the code for Adobe's Papyrus Nebuale Hackathon Round1. 
      
 Run the command:
 
-`pip install pdfservices-sdk json csv zipfile`
+```Python
+pip install pdfservices-sdk json csv zipfile
+```
 
 ## Code Structure:
 
