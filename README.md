@@ -29,7 +29,9 @@ This file iterates over the TestDataSet folder and then calls onto extract_from_
 
 After satisfying the pre requisites and ensuring that test data is correctly stored, with no Extracted_Data.csv file in the same folder(To re run the code, one would have to relocate the existing Extracted_Data.csv file to some other location). Run the following command on the terminal:
 
-`python ./main.py`
+```Python
+python ./main.py
+```
 
 
 
